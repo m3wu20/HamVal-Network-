@@ -5,7 +5,7 @@ This is a server made for Asia
 
 Own Bedwars Skywars FastBuider and FFA
 
-Owner is V and Hamster67
+Owner is V alvin and Hamster67
 
 V has strong programming and debugging capabilities
 
